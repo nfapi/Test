@@ -1,0 +1,7 @@
+{
+  "categoria": null,
+  "puntoDeVenta": 2,
+  "tipoComprobante": "Factura C",
+  "receptor": "Consumidor final",
+  "modo": "proponer y esperar aprobacion"
+}
